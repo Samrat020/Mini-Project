@@ -1,5 +1,5 @@
 # Mini-Project
-Mini Web development project UI  based on pure HTML and CSS. A project based on root level basics of HTML and CSS without any defined problem statement.
+Mini UI development project based on pure HTML and CSS. A project based on root level basics of HTML and CSS without any defined problem statement.
 
 
 <img width="1440" alt="Screenshot 2024-06-21 at 10 04 30 PM-min" src="https://github.com/Samrat020/Mini-Project/assets/130882363/13a8bcaf-d61b-4d3f-94ff-ee7f7ebcb1d4">
